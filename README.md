@@ -1,4 +1,4 @@
-# NLP-tutorial-2021
+# NLP-tutorial-2021/2022
 
 In this repository you can find the lessons of the NLP course.
 
@@ -15,3 +15,9 @@ To view the tutorials, you can download the pythonbook or access them via Google
 - **Lesson 5** - Scraping text from web page and using regex to extract some features [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LeonardRanaldi/NLP-tutorial-2021/blob/main/Practical_NLP_lesson5.ipynb)
 
 - **Lesson 6** - Named-entity recognition, POS Tagging and text classification tasks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LeonardRanaldi/NLP-tutorial-2021/blob/main/Practical_NLP_lesson6.ipynb)
+
+- **Lesson 7** - NLTK and Stanford parser to dependencies and constituents. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LeonardRanaldi/NLP-tutorial-2021/blob/main/Practical_NLP_lesson7.ipynb)
+
+- **Lesson 8** - KERMITviz. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LeonardRanaldi/NLP-tutorial-2021/blob/main/Practical_NLP_lesson8.ipynb)
+
+
