@@ -20,6 +20,6 @@ To view the tutorials, you can download the pythonbook or access them via Google
 
 - **Lesson 8** - KERMITviz. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LeonardRanaldi/NLP-tutorial-2021/blob/main/Practical_NLP_lesson8.ipynb)
 
-- **Lesson 9** - KERMITviz. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LeonardRanaldi/NLP-tutorial-2021/blob/main/Practical_NLP_lesson9.ipynb)
+- **Lesson 9** - KERMIT & BERT. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/LeonardRanaldi/NLP-tutorial-2021/blob/main/Practical_NLP_lesson9.ipynb)
 
 
